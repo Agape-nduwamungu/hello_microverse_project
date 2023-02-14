@@ -22,7 +22,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+<img src="(https://png.pngtree.com/png-clipart/20200722/original/pngtree-a-logo-simple-and-minimalistic-free-logo-design-template-png-image_5009139.jpg)" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
